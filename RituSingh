@@ -1,4 +1,134 @@
-ritu singh
-sakshi
-piyush
+Ritu Singh		        	                                                                            Email:   rts02041987@gmail.com
+DevOps and Build Engineer			                                                                      Mobile: +91-9833749157
+						                                                                                        303, Good will enclave 4, Kalyaninagar,
+						                                                                                        Pune 411014
+
+
+Professional Summary: 
+
+Cybage Software Pvt. Ltd. DevOps Engineer
+
+●	2 Years of experience as DevOps Engineer and ALM consultant.
+●	Thoroughly involved in implementation Application Lifecycle Management best practices.
+●	Expertise in CI server, Build tools, Docker, SCM tools and Cloud Services(AWS).
+●	Configure Continuous Integration and Continuous Delivery pipeline for web projects.
+●	Expertise in traceability between Atlassian tools and other open source tools. 
+
+Technical Skill:
+
+
+Continuous Integration Server 	                    Jenkins, Bamboo
+Version Control                                   	Git, Mercurial,SVN
+Cloud Services                                      	AWS(EC2, VPC, IAM, ECS, API Gateway etc.)
+Build tools                                         	Maven, Gradle, Ant
+Container Management        	Docker
+Configuration Management     	Ansible
+Orchestration tool  	Rancher
+Static code analysis tool 	Sonarqube
+Repository management tool	    Bitbucket, Github, FishEye-Crucible
+Unit testing	  JUnit
+Code Coverage Tools   	Cobertura, Clover
+Monolithic/Microservice	    Microservices
+Requirement Management tool   	Confluence
+Project Management tool	    Jira
+Programming Language	    Java
+Databases   	MySql
+Operating System	    Windows, Linux
+				
+
+Projects : 
+
+1. Mediamorph	
+Description	Mediamorph provides cloud-based platform and data management services help studios, networks, and operators manage contracts, rights, and title avails, track content performance, and calculate royalties.
+	
+Role	●	Setup Atlassian stack for Project management.
+●	Migration of SVN  to GIT.
+●	Implemented Git feature branch workflow. 
+●	Configured Continuous Integration and Continuous Delivery Pipeline.
+●	Configure/Provisioning of all Environment.
+●	Docker image Creation and Deployment to AWS ECS. 
+	
+Tools	Confluence, Jira, Bit Bucket, Git, SVN, Jenkins.
+Platform	Docker, Linux.
+
+
+2. ALM_LT	
+Description	Development (Static code analysis tool) of sonarqube custom plugin.
+	
+Role	●	Sonarqube custom plugin  development.
+●	Implemented Git feature branch workflow.
+●	Maven build tool used. 
+●	Configured Continuous Integration and Continuous Delivery Pipeline.
+●	Configure/Provisioning of all Environment.
+●	Code coverage of developed code using coberture.
+	
+Tools	Confluence, Jira, Bit Bucket, Git, Jenkins.
+Platform	Windows
+
+
+3. Pw-maas	
+Description
+
+Phunware is the pioneer of multiscreen as a service(Maas)-the only fully integrated service platform that enables brands to engage, manage, and monetize their users worldwide. Phunware has introduced category defining experience that challenge the outer limits of the most advantage connected devices for the world’s most respected brands. 
+	
+Role	●	Git hooks script written for commit message to check Jira-Id is present in commit message.
+●	Implemented Git feature branch workflow. 
+●	Configured Jenkins Pipeline.
+●	Configure/Provisioning of all Environment.
+●	Dockerized the application.
+●	Deployment on EC2 instance.
+●	Sonarqube Implementation.
+	
+Tools	Confluence, Jira, Git, Jenkins, Docker, Cobertura, Sonarqube.
+Platform	Docker,  Linux.
+
+
+
+
+
+4. Ingenico	
+Description	Ingenico is a France-based company, whose business is to provide the technology involved in secure electronic transaction.
+	
+Role	●	Demo of CI/CD for ColdFusion technology.
+●	Git hooks script written for commit message to check Jira-Id is present in commit message.
+●	Implemented Git feature branch workflow. 
+●	Configuration of Gitlab.
+●	Configured Jenkins Pipeline.
+●	Mx-unit for unit test of ColdFusion.
+●	CFLint for static code analysis.
+●	Dockerized the application.
+●	Deployment on Weblogic server.
+	
+Tools	Confluence, Jira, Git, Gitlab, Jenkins, Docker, CFLint.
+Platform
+	Docker, Linux, Windows.
+
+5. ALM_Java CI/CD	
+Description	This is the internal project for CI/CD which uses all the automated tool and deployment of release candidate in AWS.
+	
+Role	●	Microservices written to check the current and forecasted weather of city in java using spring boot.
+●	Implemented Git workflow branching module. 
+●	Configured Jenkins in EC2.
+●	Dockerized the application.
+●	Deployment on EC2 instance.
+●	Code pipeline.
+	
+Tools	Confluence, Jira, Git, Jenkins, Docker, EC2, Micro services, Code pipeline in AWS .
+Platform	Docker,  Linux , Windows.
+
+
+Summary of Qualification:
+
+●	PG-DAC (Diploma in Advanced Computing) from C-DAC(Mumbai) in 2014. 
+●	B.Tech in ECE from Mumbai University in 2012.  
+●	Higher Secondary Education from Maharashtra board in 2008.  
+●	Senior Secondary Education from CBSE board in 2006.
+
+
+Personal Details
+
+Name	Ritu Singh
+Date of Birth	8 June 1991
+
+
 
